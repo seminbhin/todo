@@ -1,0 +1,2 @@
+Git 토큰(Personal Access Token, PAT)을 얻으려면 GitHub 계정에 로그인한 후
+Settings > Developer settings > Personal access tokens 메뉴에서 발급
